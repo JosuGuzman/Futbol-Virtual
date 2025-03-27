@@ -1,0 +1,12 @@
+c:\Users\Lab15-PC01\Documents\GitHub\Futbol-Virtual\scr\bin\Debug\net9.0\scr.deps.json
+c:\Users\Lab15-PC01\Documents\GitHub\Futbol-Virtual\scr\bin\Debug\net9.0\scr.dll
+c:\Users\Lab15-PC01\Documents\GitHub\Futbol-Virtual\scr\bin\Debug\net9.0\scr.pdb
+c:\Users\Lab15-PC01\Documents\GitHub\Futbol-Virtual\scr\obj\Debug\net9.0\scr.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lab15-PC01\Documents\GitHub\Futbol-Virtual\scr\obj\Debug\net9.0\scr.AssemblyInfoInputs.cache
+c:\Users\Lab15-PC01\Documents\GitHub\Futbol-Virtual\scr\obj\Debug\net9.0\scr.AssemblyInfo.cs
+c:\Users\Lab15-PC01\Documents\GitHub\Futbol-Virtual\scr\obj\Debug\net9.0\scr.csproj.CoreCompileInputs.cache
+c:\Users\Lab15-PC01\Documents\GitHub\Futbol-Virtual\scr\obj\Debug\net9.0\scr.sourcelink.json
+c:\Users\Lab15-PC01\Documents\GitHub\Futbol-Virtual\scr\obj\Debug\net9.0\scr.dll
+c:\Users\Lab15-PC01\Documents\GitHub\Futbol-Virtual\scr\obj\Debug\net9.0\refint\scr.dll
+c:\Users\Lab15-PC01\Documents\GitHub\Futbol-Virtual\scr\obj\Debug\net9.0\scr.pdb
+c:\Users\Lab15-PC01\Documents\GitHub\Futbol-Virtual\scr\obj\Debug\net9.0\ref\scr.dll
